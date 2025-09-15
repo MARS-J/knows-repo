@@ -1,3 +1,5 @@
+<!-- Fork Source: https://gitee.com/dromara/RuoYi-Vue-Plus | Mirror: https://github.com/dromara/RuoYi-Vue-Plus -->
+<!-- This repository (knows-repo) is a personal mirror/customization. Original project by dromara & contributors under MIT License. -->
 <img src="https://foruda.gitee.com/images/1679673773341074847/178e8451_1766278.png" width="50%" height="50%">
 <div style="height: 10px; clear: both;"></div>
 
